@@ -62,3 +62,7 @@ $ npm run dev
   e-mail: admin@foodexplorer.com
   senha: 123456
 ```
+VEJA O RESULTADO EM:
+https://app.netlify.com/sites/verdant-crepe-2a805c/deploys/655a8e3b85bcee088b79083a
+
+
